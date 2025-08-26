@@ -1,1 +1,3 @@
 
+Primeiramente você terá que clicar para rodar seu código, depois só basta digitar a tabuada que você deseja saber, daí é só 
+clicar ENTER para aparecer todosos resultados da sua tabuada digitada.
